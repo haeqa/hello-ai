@@ -24,7 +24,7 @@ First 5 rows of the Iris dataset:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/hello-ai.git
+   git clone https://github.com/haeqa/hello-ai.git
 2. Navigate into the folder:
    cd hello-ai
 3. Install dependencies:
