@@ -28,7 +28,7 @@ First 5 rows of the Iris dataset:
 2. Navigate into the folder:
    cd hello-ai
 3. Install dependencies:
-   pip install pandas scikit-learn
+   pip install -r requirements.txt
 4. Run the script:
    python hello_ai.py
 ## ✨ Author
